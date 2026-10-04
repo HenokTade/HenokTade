@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Software Engineer specializing in front-end web development, focused on mastering modern frameworks and delivering user-centric digital experiences.
+  Software Engineer specializing in full stack web development, focused on mastering modern frameworks and delivering user-centric digital experiences.
 </p>
 
 <p align="center">
